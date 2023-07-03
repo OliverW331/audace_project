@@ -1,0 +1,77 @@
+Artificial intelligence is booming in Canada and is already at work in our companies, hospitals, schools and homes. To help you keep up with the latest advancements, we've rounded up a collection of articles about how Canadians are leading the charge, and what comes next in this exciting field.
+Going deep into the work of Canada's AI leaders
+There are three people on the planet credited with being the founding fathers of deep learning, one of the most promising branches of artificial intelligence. Two of them work in Canada - Geoffrey Hinton in Toronto and Yoshua Bengio in Montreal. Both cities are among the fastest growing AI hubs in the world, and Edmonton will soon join their ranks, under the leadership of reinforcement learning guru Rich Sutton. What have they and their colleagues been working on lately? We visit their labs to find out.
+Read the full story
+Also, check our profile on Geoffrey Hintonand the story of how he and Yoshua Bengio won the Turing Award for computer science.
+The global race for artificial-intelligence supremacy is on - and Canada's next moves are crucial
+Canada was the first country to have a national AI strategy. The good news is that it has been a great success. The benefits have been realized sooner and to a greater extent than was anticipated. However, Canada's first-mover advantage in AI is at risk. What we do next will determine how much our country gains the economic rewards that AI promises - or if other countries enjoy the bulk of the benefits.
+Read the full story
+Startup CEOs on how to keep the artificial intelligence ball rolling in Canada
+Canada now houses three major AI clusters - in Toronto, Montreal and Edmonton - that form the backbone of the country's machine-learning ecosystem and support homegrown AI startups. In fact, Toronto boasts one of the highest concentration of AI startups in the world, while Montreal is leading the way in producing deep-learning research.
+Read the full story
+Can Montreal's new research hub humanize artificial intelligence?
+In Montreal's Mile-Ex district, a refurbished factory is set to become the world's most concentrated centre for deep learning and reinforcement learning, two rapidly advancing technical fields that are fueling the AI boom.
+Read the full story
+Education and jobs in AI
+Business and artificial intelligence come together in new program
+Students in the AI management program at Smith School of Business in Kingston, Onnt., take courses that tackle both soft and hard skills, from the ethics of AI to actually building models and being more hands-on and technical with the data. The 12-month course is designed for working professionals, holding courses in the evenings and on weekends, and requires three years of work experience.
+Read the full story
+The AI job market 'is not just for nerds and mathematicians'
+The most obvious route to a career in AI is through studying STEM, but it is not the only one. There's a need for people with skills in other fields, such as graphic design and communications.
+Read the full story
+Artificial intelligence and jobs: What's left for humanity will require uniquely human skills
+In the future, human employment won't be based on skills that machines are incapable of; they will be areas where we don't desire AI replacement. Relationships, trust, guidance, caring, nurturing and social interaction are traits that these jobs will share. Many of the underlying tasks, behind the scenes, in those roles may be automated, but the relationship cannot be, and will not be.
+Read the full story
+AI doesn't need more researchers, it needs more products
+Toronto has become a magnet for artificial intelligence researchers, drawing some of the field's leading figures to set up labs here. Popular narratives suggest this brain gain will cement Canada's largest city in the top tier of global tech centres. But look beyond the hype, and warning lights are flashing that Toronto is headed in a different direction - more ivory tower than economic power.
+Read the full story
+AI in our homes
+Artificial intelligence is changing the world. Are we ready for it?
+It feels like artificial intelligence crept into our lives almost without us knowing, helping us pick movies on Netflix, our favourite tunes on Spotify and buy things on Amazon. As it gets better and smarter, AI's reach will be staggering.
+Read the full story
+Ten ways AI can help you manage your life
+AI is being integrated into every aspect of our lives, from toothbrushes to pets. Here, a roundup by Globe writers and contributors of the most noteworthy ways to let robots start running your life.
+Read the full story
+Bonjour, Alexa! How Amazon's virtual assistant learned to speak Quebec French
+A few thousand Quebecers were enlisted to help Amazon's virtual assistant Alexa learn the finer points of Quebec French, from the distinctive accent to so-called "joual" expressions and the linguistic mishmash known as "Franglais."
+Read the full story
+AI in health and safety
+How artificial intelligence can completely revolutionize Canadian health care
+As AI begins to take off, will the health-care industry be receptive to technological disruption despite its notorious aversion to change? What is clear is that it will be crucial for the medical community to use its clinical expertise to help leverage technology and AI to improve the delivery of health care. Indeed, this has already begun.
+Read the full story
+Can an algorithm stop suicides by spotting the signs of despair?
+Predicting whether people plan to kill themselves is a complicated science still in its infancy - but some researchers say machines can do it better than we can.
+Read the full story
+Toronto's SickKids announces first-of-its-kind artificial intelligence position
+In 2013, SickKids began collecting and storing the data that emanate from patients in their 42 intensive-care beds. The unit now has more than two trillion data points in its virtual vault, far more than a mere mortal could make sense of. That's where artificial intelligence and machine learning come in.
+Read the full story
+New technology aims to give victims of sexual violence a more positive reporting experience
+A new tool, Botler AI, helps victims of harassment and sexual assault fill out an anonymous incident report. The service is part of a burgeoning field of technology emerging after #MeToo - neutral, third-party tools that aim to give victims of sexual violence a more positive experience of disclosing.
+Read the full story
+Alberta researchers look to artificial intelligence programs to predict catastrophic wildfires
+Researchers and forest managers are turning to artificial intelligence in the hope it can help them predict the risk of catastrophic wildfires as climate change continues to rewrite the rule book. One insurance company says it has already developed an artificial-intelligence program that can assess fire risk well in advance.
+Read the full story
+Ethics and AI
+The AI revolution needs a rulebook. Here's a beginning
+Developers and users of AI are working to define ethical standards to guard against unintended consequences. As consensus builds on what responsible AI will look like, it is also becoming clear that this effort can pay back in other ways.
+Read the full story
+Real or artificial? Tech titans declare AI ethics concerns
+The biggest tech companies want you to know that they're taking special care to ensure that their use of artificial intelligence to sift through mountains of data, analyze faces or build virtual assistants doesn't spill over to the dark side. But how much substance lies behind the increasingly public ethics campaigns? And who gets to decide which technological pursuits do no harm?
+Read the full story
+Scientists call for ban on lethal, autonomous robots
+Once the stuff of science fiction, the idea of killer robots is no longer a remote possibility but an easy-to-imagine offshoot of current technology, experts warn. Drones and other military machines can already be piloted remotely. The step to a machine that directs itself in battle is not only plausible but practically inevitable unless the world acts to prohibit their use.
+Read the full story
+Experiment in morality illustrates challenges in programming self-driving cars to make life-or-death decisions
+In the age of autonomous vehicles, which can assess and react to unavoidable accidents far more quickly than humans, the moral decision-making capacity of machines will no longer be a topic for philosophical debate, but a matter of life and death.
+Read the full story
+Humanization of AI
+She looks like a human. Can she be thought to think like one too?
+A pioneering tech startup intend to develop humanoid robots that can move, speak and think for themselves and interact - as intellectual peers - with real people on a daily basis in intimate and vital roles as therapists, caregivers, teachers, scientists, even lovers.
+Read the full story
+AI reaches new milestone as system beats professional players at poker
+Games provide an important testbed for artificial intelligence because they offer a well-defined arena where programming approaches can be evaluated and compared. Last year, another deep learning system developed by Google DeepMind managed tobeat the world champion at Go, a board game that is fiendishly complex despite its simple rules because of the number of possible decisions a player can make.
+Read the full story
+R2-D2 walks into a bar and . . . smart as he is, he will just never get the joke
+A robot walks into a bar. It goes CLANG. Alexa and Siri can tell jokes mined from a humour database, but they don't get them. When people try to teach machines what's funny, the results are at times laughable but not in the way intended.
+Read the full story
+

@@ -1,0 +1,26 @@
+A faulty backup generator at the superhospital of the McGill University Health Centre that plunged the operating rooms into darkness for nearly one hour Monday has prompted authorities to launch an investigation into possible causes.
+But apart from potential issues with at least one generator, there are limitations to the power at the MUHC's Glen site in Notre-Damede-Grâce, the Montreal Gazette has learned. During a heat wave, the Glen site cuts off the air conditioning on purpose in the cafeteria and atrium to keep the clinical areas cool.
+During record-breaking temperatures this month, cafeteria workers have resorted to placing wet towels around their necks to cope with the stifling heat.
+When the superhospital opened in 2015, MUHC officials boasted of the state-of-the-art facilities that included central air conditioning.
+Julia Asselstine, assistant director of communications and engagement at the MUHC, explained the rationale behind cutting off the air conditioning in the packed cafeteria used by employees, patients and their families.
+"In the event that the chilled water temperature gets too hot inside clinical areas, there is a predetermined sequence of load shedding that is automatically engaged by the building control system," Asselstine said in an emailed statement.
+"The cafeteria/atrium ventilation system is among the systems that are temporarily stopped so that the temperatures in the more critical spaces of the Glen can be rapidly lowered."
+Electrical problems have bedevilled the Glen site since even before it opened, starting with faulty wiring that needed to be replaced in the ORs. In July 2016, a crow that was electrocuted on a power line in Hampstead indirectly caused a two-hour blackout at the $1.3-billion superhospital, resulting in the cancellation of surgeries as the ventilation and other systems rebooted.
+That same month, a power flicker lasting only a few milliseconds was enough to trigger the rebooting of the same systems, leading to an internal review to prevent similar problems in the future.
+Last month, in an incident reminiscent of the electrocuted crow, a squirrel that accidentally touched two wires in a circuit breaker box on de Maisonneuve Blvd. knocked out six servers in the Glen site's computer centre, which in turn caused a network failure for 45 minutes.
+The Glen site, like all hospitals in Montreal, has backup generators that are supposed to kick in during blackouts. On Monday, a gas leak just north of the superhospital on Girouard and Monkland Aves. forced Hydro-Québec to cut power for 8,000 customers in the area.
+However, one of the Glen site's 11 backup generators failed to activate, cutting off power to several adult clinical areas, ORs and the emergency room for 51 minutes.
+"We can assert that one of the 11 generators did not function properly," the MUHC said in a statement. "Current hypotheses point to a faulty electrical component coupled with a possible human error in the building control room. All generator systems were verified Monday afternoon and are again in ready mode."
+"The MUHC considers the 51-minute power outage a serious event and is working diligently with its partner GISM (Groupe immobilier de santé McGill) to significantly reduce the risk of a similar event from occurring," the statement added.
+GISM is the private consortium, led by engineering firm SNC-Lavalin, that designed and built the superhospital. It's also responsible for the maintenance for the next 30 years.
+Nicolas Ryan, a spokesperson for both SNC-Lavalin and the consortium, attributed Monday's blackout to a faulty electrical component in one of the generators and did not mention possible human error.
+"The generators provide enough power to maintain all essential services," he said.
+Asked why some parts of the Glen site were deprived of air conditioning this month, Ryan confirmed Asselstine's explanation. "The temperatures never exceeded the applicable standards in any part of the hospital during the heat wave," Ryan added.
+The blackout on Monday resulted in some patients experiencing delays or having "their care plans modified." MUHC officials did not elaborate on whether some surgeries might have been cancelled.
+Both the MUHC and GISM are now conducting a "full analysis" of potential generator problems.
+Asselstine explained that during a blackout, the backup generators are "restricted to maintaining essential services only" and "there is reduced cooling/heating and dehumidification capacity." Some equipment, including medical imaging, remains idle during blackouts, she added.
+During this summer's heat waves, some older hospitals - like Sacré-Coeur in north-end Montreal - have run into problems with air conditioning, with temperatures in some rooms reaching as high as 32 C. But poor air conditioning has reported to be much less of a problem or non-existent in newer facilities. aderfel@postmedia.com twitter.com/Aaron_Derfel
+CREDIT: AARON DERFEL;The Gazette
+
+
+

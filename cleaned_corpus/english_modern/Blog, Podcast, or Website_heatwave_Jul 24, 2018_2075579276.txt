@@ -1,0 +1,26 @@
+If engineer and inventor Willis Carrier was the Thomas Edison of air-conditioning, then J.M. Masterton and F.A. Richardson were the Archimedes of the humidex.
+Although Canadians had coined the term "humidex" in 1965, Masterton and Richardson were the Atmospheric Environment Service scientists who created the formula for it in 1979. The service has since morphed into Environment Canada, but the formulation remains essentially the same, producing a "scale of discomfort" that Canadians cling to with frustration and pride - as we do with the wind chill factor on the flip side of the calendar.
+High humidex readings are rare outside southern Quebec, Ontario and parts of Manitoba because the weather systems that impregnate the air with moisture are generally part of systems that arrive via the Caribbean or Mexico. The highest recorded humidex reading was in Carman, Man., on July 25, 2007. With the humidity, it hit 53 degrees Celsius.
+We perceive the temperature to be higher than it is when there's so much moisture in the air that our sweat doesn't evaporate quickly, leaving our bodies slick and sticky.
+What if you're an optimist who'd rather use the wind-chill factor? That's not something meteorologists do when the temperature is above 5 C, but for argument's sake: Montreal is expected to hit a high of 28 C on Tuesday, with a humidex of 33 and wind gusts up to 39 km/hr. Add in the wind chill (subtract the wind chill?) and it'll feel more like ... 32 C or so.
+Hair grows up to three per cent faster in high humidity. But it can also give you the frizzies.
+Good hair day?
+Hair grows up to three per cent faster in high humidity, according to an Environment Canada brochure from the mid-1990s that also uses the word "frizzies" to describe what can happen to curly hair in moist air, and notes that those with straight hair might find it even more limp than usual.
+"Hair is such a reliable indicator of good or bad weather, in fact, that it is the primary element of the hair hygrometer, an instrument that was used for years to measure humidity," says the Environment Canada brochure. "Invented in 1783, it was used until more sophisticated technology was developed in the 1960s. For its time, it was a very accurate humidity-measuring device, although not in widespread meteorological use today."
+Here's what the humidex numbers mean
+Less than 29 C: No discomfort
+30 to 39 C: Some discomfort
+40 to 45 C: Great discomfort; avoid exertion
+Above 45 C: Dangerous
+Above 54 C: Heat stroke imminent
+If you'd rather calculate it on your own, you can click here( https://www.ncl.ucar.edu/Document/Functions/Heat_stress/heat_humidex.shtml ) for the formula.
+The dog-star days of summer
+The dog days of summer are probably not exactly what you think. Colloquially used to describe the most sizzling, sweltering part of summer, the dog days are actually named for a star. Sirius, the brightest star in the sky, is the nose of the constellation Canis Major, Orion's dog.
+It's most visible in the northern hemisphere in the wintertime, according to Space.com. However, it rises with the sun from July 3 to Aug. 11, making those - more or less - the dog days of summer. You can try to catch a glimpse of it this week when it rises just after 5:30 a.m. or sets around 8:30 p.m. You can install the open-source program Stellarium( http://www.stellarium.org/ ) on your mobile device for help finding Sirius or any other celestial body.
+Orion's belt points to the star Sirius, which is the tip of his dog's nose.
+Related
+Watch: How to help pets stay cool and safe during intense heat( https://montrealgazette.com/news/local-news/how-to-help-pets-stay-cool-and-safe-during-intense-heat?video_autoplay=true )
+Our picks: 6 of the best splash pads in Montreal( https://montrealgazette.com/news/local-news/staff-picks-montreal-splash-pads-for-when-the-heat-is-too-much?video_autoplay=true )
+Fariha Naqvi-Mohamed: Beating Montreal's heat wave is a community effort( https://montrealgazette.com/opinion/columnists/fariha-naqvi-mohamed-beating-montreals-heat-wave-is-a-community-effort )
+CREDIT: Hayley Juhl, Montreal Gazette
+

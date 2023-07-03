@@ -1,0 +1,22 @@
+The South Shore city of Candiac announced Friday it will embark on a pilot project to provide electric, self-driving shuttle buses to take people to one of the city's park-and-ride lots.
+The project, to which the Quebec government is contributing $350,000, is the first long-term demonstration project of a 100-per-cent electric autonomous shuttle on public roads in Canada, according to Keolis Canada, the company providing the shuttle buses.
+"This is the first self-driving pilot project we have received to date," Transport Minister André Fortin said in Candiac Friday. "We have hopes that there will be others."
+Fortin said the pilot project announced Friday, which will begin the last week of August, is made possible by changes his government made last spring to the Highway Safety Code( http://www.assnat.qc.ca/en/travaux-parlementaires/projets-loi/projet-loi-165-41-1.html ) to allow autonomous vehicles on public roads.
+The minibus, which costs about $400,000, has a capacity of 15 people. It will take a one-kilometre trip along Montcalm Blvd., making five stops along the way from the intersection of Marie-Victorin Blvd. to the park-and-ride lot north of Highway 15 that has several bus lines, including express buses over the Champlain Bridge.
+The shuttle will drive at a maximum speed of 25 kilometres per hour, said Marie Hélène Cloutier, the vice-president of marketing and sales for Keolis Canada. It will be in service for 12 months, but during the winter months (from December to April), it will not take passengers, because Keolis will be testing how it fares in a cold climate. The shuttle can run for about 225 kilometres on a single charge, which will allow the bus to offer service for nine hours per day. An operator must be on board at all times, according to the terms of the pilot project, though the bus has no steering wheel. Cloutier said the operator will steer the shuttle using a Sony PlayStation-brand video-game controller.
+The bus will communicate with smart traffic lights that will stay green when the bus is approaching. The bus can also be hailed by a smartphone, and riders will be able to tell it to skip a stop using a touchscreen on board. However, those options will not be available as part of this project.
+Candiac Mayor Normand Ayotte said he believes the shuttle will be used often by Candiac citizens, since its route begins at a senior citizens residence and stops near several industrial buildings.
+"It's a nice project for us," Ayotte said. "We want to give our citizens a good transportation system, and this kind of project is complementary to what we already provide our citizens."
+Cloutier said cities are looking for services like autonomous buses to transport smaller numbers of people in less densely populated areas towards heavy mass transit services.
+"We have to work on micro-transit, meaning the first and last mile," she said. "This is really a complementary service that is designed to increase use of public transit."
+She added the pilot project will also help Keolis improve its technology. Even though the shuttle has already been used in 17 other countries, this is the first time the technology is being tested in harsh winter conditions. She said the buses have not been properly tested below 10 degrees Celsius.
+"In Quebec, there is freezing rain, and a lot of situations that can be more complicated, so we have to work to make the shuttle responsive to Quebec's winter conditions," she said. "The shuttle improves every time it goes out."
+Sarah Houde, a spokesperson for Propulsion Quebec, which represents the electric and smart vehicle industry, said she hopes this project will help Quebec become a world leader in autonomous vehicles, and that other companies will come to the province to test autonomous buses in the province's weather.
+The city of Montreal also recently announced( https://montrealgazette.com/news/local-news/city-announces-pilot-project-for-autonomous-buses )a pilot project for self-driving shuttle buses in its Olympic Park by the end of the summer, but those buses are only expected to run on closed, private roads.
+Related
+City announces pilot project for self-driving shuttle buses( https://montrealgazette.com/news/local-news/city-announces-pilot-project-for-autonomous-buses )
+jmagder@postmedia.com( mailto:jmagder@postmedia.com )
+twitter.com/jasonmagder( http://twitter.com/jasonmagder )
+facebook.com/jasonmagderjournalist( http://facebook.com/jasonmagderjournalist )
+CREDIT: Jason Magder, Montreal Gazette
+
