@@ -1,2 +1,2 @@
 # audace_project
- investigate in the social impact of disruptive weather
+ investigate the social impacts of disruptive weather
